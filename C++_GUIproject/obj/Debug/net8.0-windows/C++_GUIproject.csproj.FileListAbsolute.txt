@@ -1,0 +1,17 @@
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\bin\Debug\net8.0-windows\C++_GUIproject.exe
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\bin\Debug\net8.0-windows\C++_GUIproject.deps.json
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\bin\Debug\net8.0-windows\C++_GUIproject.runtimeconfig.json
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\bin\Debug\net8.0-windows\C++_GUIproject.dll
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\bin\Debug\net8.0-windows\C++_GUIproject.pdb
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C___GUIproject.frm_frame1.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.csproj.GenerateResource.cache
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.AssemblyInfoInputs.cache
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.AssemblyInfo.cs
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.csproj.CoreCompileInputs.cache
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.sourcelink.json
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.dll
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\refint\C++_GUIproject.dll
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.pdb
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.genruntimeconfig.cache
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\ref\C++_GUIproject.dll
