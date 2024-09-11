@@ -16,32 +16,5 @@ namespace activity_1
         {
             InitializeComponent();
         }
-
-        private void lbl_login_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn_registernow_Click(object sender, EventArgs e)
-        {
-            Form1 sForm = new Form1();
-            sForm.Show();
-            this.Hide();
-        }
-
-        private void login_close_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
     }
 }

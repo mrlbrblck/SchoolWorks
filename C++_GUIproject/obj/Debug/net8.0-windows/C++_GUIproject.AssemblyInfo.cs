@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C++_GUIproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43052601e31d81b63390c6232172408098768c3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46b7b9668d8dd61ae31d433e739275c9aa820d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("C++_GUIproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C++_GUIproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
