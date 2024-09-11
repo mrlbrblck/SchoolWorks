@@ -35,9 +35,9 @@
             // pnl_formpanelright
             // 
             pnl_formpanelright.Dock = DockStyle.Right;
-            pnl_formpanelright.Location = new Point(587, 0);
+            pnl_formpanelright.Location = new Point(376, 0);
             pnl_formpanelright.Name = "pnl_formpanelright";
-            pnl_formpanelright.Size = new Size(213, 450);
+            pnl_formpanelright.Size = new Size(606, 753);
             pnl_formpanelright.TabIndex = 0;
             // 
             // pnl_formpanelleft
@@ -45,15 +45,16 @@
             pnl_formpanelleft.Dock = DockStyle.Left;
             pnl_formpanelleft.Location = new Point(0, 0);
             pnl_formpanelleft.Name = "pnl_formpanelleft";
-            pnl_formpanelleft.Size = new Size(254, 450);
+            pnl_formpanelleft.Size = new Size(368, 753);
             pnl_formpanelleft.TabIndex = 1;
+            pnl_formpanelleft.Paint += pnl_formpanelleft_Paint;
             // 
             // frm_frame1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlText;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(982, 753);
             Controls.Add(pnl_formpanelleft);
             Controls.Add(pnl_formpanelright);
             ForeColor = Color.DarkGoldenrod;

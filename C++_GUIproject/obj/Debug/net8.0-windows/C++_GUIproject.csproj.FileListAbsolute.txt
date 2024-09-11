@@ -15,3 +15,11 @@ C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-win
 C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.pdb
 C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C++_GUIproject.genruntimeconfig.cache
 C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\ref\C++_GUIproject.dll
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\activity_1.Form1.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\activity_1.Form2.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\activity_1.Form3.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C___GUIproject.PRE_LIM_ANAZARIO.activity_1.Properties.Resources.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\Activity_2.frm_profileform.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C___GUIproject.PRE_LIM_ANAZARIO.Activity_2.Properties.Resources.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\MDI.Form1.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\obj\Debug\net8.0-windows\C___GUIproject.PRE_LIM_ANAZARIO.MDI.Properties.Resources.resources

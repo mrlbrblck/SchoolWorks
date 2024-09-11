@@ -11,5 +11,10 @@ namespace C___GUIproject
         {
 
         }
+
+        private void pnl_formpanelleft_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

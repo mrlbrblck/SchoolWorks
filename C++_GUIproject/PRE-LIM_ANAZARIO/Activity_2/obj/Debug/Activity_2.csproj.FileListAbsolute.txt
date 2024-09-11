@@ -1,0 +1,10 @@
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\bin\Debug\Activity_2.exe.config
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\bin\Debug\Activity_2.exe
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\bin\Debug\Activity_2.pdb
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\obj\Debug\Activity_2.csproj.AssemblyReference.cache
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\obj\Debug\Activity_2.Form1.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\obj\Debug\Activity_2.Properties.Resources.resources
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\obj\Debug\Activity_2.csproj.GenerateResource.cache
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\obj\Debug\Activity_2.csproj.CoreCompileInputs.cache
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\obj\Debug\Activity_2.exe
+C:\Users\NEW PC\Documents\GitHub\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\Activity_2\obj\Debug\Activity_2.pdb
